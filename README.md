@@ -38,7 +38,7 @@
 
 ## About & Features
 
-[Please see our website](https://bazzite.gg/) for a newcomer-friendly explanation of Bazzite. This readme will cover everything in-depth.
+[Please see Bazzite website](https://bazzite.gg/) for a newcomer-friendly explanation of Zeereth. This readme will cover everything in-depth.
 
 Zeereth, made from [Bazzite](https://bazzite.gg/) is a custom [Fedora Atomic](https://fedoraproject.org/atomic-desktops/) image built with [cloud native](https://universal-blue.org/#cloud-native) technology that brings the best of Linux gaming to **all of your devices - including your favorite handheld**.
 
