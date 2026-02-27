@@ -31,7 +31,7 @@ SECUREBOOT_DOC_URL_QR="/usr/share/ublue-os/secure_boot_qr.png"
 # Bazzite anaconda profile
 : ${VARIANT_ID:?}
 
-echo "Bazzite release $VERSION_ID ($VERSION_CODENAME)" >/etc/system-release
+echo "Zeereth release $VERSION_ID ($VERSION_CODENAME)" >/etc/system-release
 
 # Get Artwork
 git clone --depth 1 --quiet https://github.com/ublue-os/bazzite.git /root/packages
@@ -137,7 +137,7 @@ $(
     if [[ $imageref == *-deck* ]]; then
         cat <<EOCAT
 # Set default user
-user --name=bazzite --password=bazzite --plaintext --groups=wheel
+user --name=zee --password=zee --plaintext --groups=wheel
 EOCAT
     fi
 )
